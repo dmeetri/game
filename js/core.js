@@ -1,3 +1,13 @@
+class Scene {
+  constructor(objects) {
+    this.objects = objects;
+  }
+
+  get getObjects() {
+    return this.objects;
+  }
+}
+
 class Object {
   constructor(x = 0, y = 0) {
     this.x = x;
