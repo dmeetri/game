@@ -1,19 +1,9 @@
 # Документация
 
-Версия 0.1.0
+Версия 1.0.0
+
+Весь проект представляет из себя монолит и не имеет четкого разделения на движок и игра
 
 ## Разделы
 
-### Script.js
-
-- [Script.js](./script.md)
-
-### Core
-
-- [Scene](./core/scene.md)
-- [Object](./core/object.md)
-- [CollisionObject](./core/collisionobject.md)
-
-### Window
-
-- [Window](./window.md)
+- [Сцены](./scene.md)
