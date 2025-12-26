@@ -1,8 +1,19 @@
 # Документация
 
-Версия 0.0.1
+Версия 0.1.0
 
 ## Разделы
 
+### Script.js
+
 - [Script.js](./script.md)
-- [Core](./core.md)
+
+### Core
+
+- [Scene](./core/scene.md)
+- [Object](./core/object.md)
+- [CollisionObject](./core/collisionobject.md)
+
+### Window
+
+- [Window](./window.md)
